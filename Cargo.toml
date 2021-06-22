@@ -1,0 +1,12 @@
+[package]
+name = "RustBot"
+version = "0.1.0"
+authors = ["FRC2539", "benjiboy50fonz"]
+edition = "2018"
+
+[dependencies]
+wpilib = "0.4.0"
+
+[package.metadata.frc]
+team-number = -1
+target-dir = "./target"
